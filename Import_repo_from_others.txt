@@ -1,0 +1,4 @@
+1. Repositories - New 
+2. Repository 이름 작성 후 생성
+3. …or import code from another repository 아래 Import code 클릭
+4. Your old repository’s clone URL 항목에 가져올 Repository 주소 붙여넣고 Begin Import하면 끝.
